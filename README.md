@@ -1,2 +1,2 @@
 # shell
-常用shell例子
+常用shell脚本
